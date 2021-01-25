@@ -1,0 +1,23 @@
+{
+  "name": "ar-valentine",
+  "version": "1.0.0",
+  "description": "AR project for my girl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacEvelly/ar-valentine.git"
+  },
+  "keywords": [
+    "valentine",
+    "WebXR"
+  ],
+  "author": "Brett Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacEvelly/ar-valentine/issues"
+  },
+  "homepage": "https://github.com/MacEvelly/ar-valentine#readme"
+}
